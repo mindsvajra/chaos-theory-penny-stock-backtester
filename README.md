@@ -1,5 +1,20 @@
 # Chaos Theory-Based Penny Stock Backtester (Educational Project)
 
+![Lyapunov Exponent Divergence](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Application_of_Lyapunov_exponents_in_chaos_theory_discrete_and_continuous_dynamical_systems_examples%2522-lyapunov-exponent-of-time-series-data-3-728.jpg&w=3840&q=75)
+*Exponential trajectory separation — positive λ indicates chaos.*
+
+![Phase Space Reconstruction Example](https://www.mdpi.com/applsci/applsci-10-01430/article_deploy/html/images/applsci-10-01430-g006-550.jpg)
+*Reconstructed attractor from time series (used to embed price data).*
+
+![False Nearest Neighbors Plot](https://www.researchgate.net/publication/228714251/figure/fig4/AS:667634865537040@1536187964936/False-nearest-neighbor-curves-with-various-thresholds-for-determining-the-embedding.png)
+*FNN method for estimating embedding dimension m.*
+
+![Correlation Dimension (Grassberger-Procaccia)](https://hess.copernicus.org/articles/22/5069/2018/hess-22-5069-2018-f04-web.png)
+*Log-log plot for estimating correlation dimension D.*
+
+![Wavelet Details for Reversal Detection](https://miro.medium.com/v2/resize:fit:1400/1*3n2ZeTgODssNSluMAT1PAw.png)
+*Wavelet decomposition highlighting high-frequency reversals in stock prices.*
+
 **⚠️ IMPORTANT DISCLAIMER ⚠️**
 
 This is a **proof-of-concept educational script** exploring the application of nonlinear dynamics and chaos theory to financial time series.
