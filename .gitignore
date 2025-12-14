@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Outputs (don't commit large CSVs or many PNGs if repo gets big)
+*.csv
+*.png
+
+# Environments
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
