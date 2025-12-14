@@ -3,9 +3,6 @@
 ![Lyapunov Exponent Divergence](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Application_of_Lyapunov_exponents_in_chaos_theory_discrete_and_continuous_dynamical_systems_examples%2522-lyapunov-exponent-of-time-series-data-3-728.jpg&w=3840&q=75)
 
 
-![False Nearest Neighbors Plot](https://www.researchgate.net/publication/228714251/figure/fig4/AS:667634865537040@1536187964936/False-nearest-neighbor-curves-with-various-thresholds-for-determining-the-embedding.png)
-*FNN method for estimating embedding dimension m.*
-
 ![Correlation Dimension (Grassberger-Procaccia)](https://hess.copernicus.org/articles/22/5069/2018/hess-22-5069-2018-f04-web.png)
 *Log-log plot for estimating correlation dimension D.*
 
